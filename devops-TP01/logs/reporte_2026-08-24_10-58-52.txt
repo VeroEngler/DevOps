@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-08-24_10-58-52
+===============================
+
+--- CPU ---
+Uso CPU: 2.6%
+
+--- MEMORIA ---
+Total: 23Gi | Usado: 3.9Gi | Libre: 16Gi
+
+--- DISCO ---
+Total: 292G | Usado: 11G | Libre: 267G | Uso: 4%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/home/sao/.config/discord/app-1.0.154/Discord CPU: 23.6%
+/usr/lib/librewolf/librewolf CPU: 11.3%
+/usr/bin/kwin_wayland CPU: 7.2%
+/usr/lib/librewolf/librewolf CPU: 5.8%
+/usr/lib/librewolf/librewolf CPU: 4.4%
+
+--- UPTIME ---
+ 10:58:52 up 46 min,  1 user,  load average: 0.86, 0.75, 0.87

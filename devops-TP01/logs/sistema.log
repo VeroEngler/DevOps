@@ -1,0 +1,26 @@
+[2026-08-24 08:35:37] ============================================
+[2026-08-24 08:35:37] Iniciando script de automatización del sistema
+[2026-08-24 08:35:37] Directorio base: /home/sao/devops-TP01
+[2026-08-24 08:35:37] ============================================
+[2026-08-24 08:35:37] === TAREA !: Iniciando Backup ===
+[2026-08-24 08:35:37] Backup completado en: /home/sao/devops-TP01/backups/backup_2026-08-24_08-35-37 (0 archivos)
+[2026-08-24 08:35:37] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-08-24 08:35:37] Limpieza completa. Archivos eliminados: 0
+[2026-08-24 08:35:37] === TAREA 3: Reporte de salud del sistema ===
+[2026-08-24 08:35:38] Reporte guardado en: /home/sao/devops-TP01/logs/reporte_2026-08-24_08-35-37.txt
+[2026-08-24 08:35:38] ============================================
+[2026-08-24 08:35:38] Todas las tareas completadas exitosamente
+[2026-08-24 08:35:38] ============================================
+[2026-08-24 10:58:52] ============================================
+[2026-08-24 10:58:52] Iniciando script de automatización del sistema
+[2026-08-24 10:58:52] Directorio base: /home/sao/DevOps/devops-TP01
+[2026-08-24 10:58:52] ============================================
+[2026-08-24 10:58:52] === TAREA !: Iniciando Backup ===
+[2026-08-24 10:58:52] Backup completado en: /home/sao/DevOps/devops-TP01/backups/backup_2026-08-24_10-58-52 (0 archivos)
+[2026-08-24 10:58:52] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-08-24 10:58:52] Limpieza completa. Archivos eliminados: 0
+[2026-08-24 10:58:52] === TAREA 3: Reporte de salud del sistema ===
+[2026-08-24 10:58:52] Reporte guardado en: /home/sao/DevOps/devops-TP01/logs/reporte_2026-08-24_10-58-52.txt
+[2026-08-24 10:58:52] ============================================
+[2026-08-24 10:58:52] Todas las tareas completadas exitosamente
+[2026-08-24 10:58:52] ============================================
