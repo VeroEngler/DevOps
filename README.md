@@ -20,5 +20,6 @@ DevOps/
 │   └── README.md         # Documentación específica del TP02
 │
 └── README.md             # Documentación principal del repositorio
+```
 
 Vero Engler — Estudiante / Desarrollador — VeroEngler
