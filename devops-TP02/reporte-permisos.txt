@@ -1,0 +1,25 @@
+============================================
+  AUDITORÍA DE PERMISOS — Sat Aug 29 10:39:52 AM -03 2026
+============================================
+
+--- Usuario y grupo ---
+  [OK]  Usuario 'devops-deploy' existe
+  [OK]  uid=1001(devops-deploy) gid=1002(devops-deploy) groups=1002(devops-deploy),1001(deploy-team)
+  [OK]  Grupo 'deploy-team' existe
+
+--- Permisos de directorios ---
+  [OK]  /opt/deploy-app/scripts → 750 (esperado: 750)
+  [OK]  /opt/deploy-app/logs → 770 (esperado: 770)
+  [OK]  /opt/deploy-app/config → 750 (esperado: 750)
+
+--- Pruebas funcionales ---
+  [OK]  Puede LEER config
+  [OK]  No puede ESCRIBIR config (correcto)
+  [OK]  Puede ESCRIBIR logs
+
+--- sudo ---
+  [OK]  Sin privilegios sudo
+
+============================================
+Auditoría completada: /home/sao/DevOps/devops-TP02/reporte-permisos.txt
+============================================
