@@ -13,3 +13,4 @@ integracion continua
 funcionalidades nuevas
 - 'hotfix/*' -
 correcciones urgentes de produccion
+#Develop branch activa
