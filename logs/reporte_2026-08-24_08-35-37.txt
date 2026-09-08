@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-08-24_08-35-37
+===============================
+
+--- CPU ---
+Uso CPU: 0.6%
+
+--- MEMORIA ---
+Total: 23Gi | Usado: 2.7Gi | Libre: 18Gi
+
+--- DISCO ---
+Total: 292G | Usado: 11G | Libre: 267G | Uso: 4%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/usr/lib/librewolf/librewolf CPU: 8.1%
+/usr/lib/kf6/baloo_file_extractor CPU: 7.1%
+/usr/bin/kwin_wayland CPU: 4.9%
+/usr/lib/librewolf/librewolf CPU: 3.2%
+/usr/lib/librewolf/librewolf CPU: 1.9%
+
+--- UPTIME ---
+ 08:35:38 up 33 min,  1 user,  load average: 0.43, 0.27, 0.42
